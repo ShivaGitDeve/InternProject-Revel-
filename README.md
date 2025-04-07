@@ -1,6 +1,6 @@
 # Intern-Project-Revel-
 
-🔑 Steps to Create a Gemini API Key
+ # Steps to Create a Gemini API Key
 1. Go to Google AI Studio
 
     Visit the official website: https://makersuite.google.com/
@@ -33,7 +33,7 @@
 
 
   ------------------------------------------------------------------------------------
-📘 Steps to Create API Keys for Google Cloud Services
+# Steps to Create API Keys for Google Cloud Services
 1. Go to the Google Cloud Console
 
     Visit: https://console.cloud.google.com/
